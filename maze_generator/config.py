@@ -1,5 +1,5 @@
 """ CONFIG FILE """
 
 # Dimensions
-MAZE_WIDTH = 10
-MAZE_HEIGHT = 10
+MAZE_WIDTH = 20
+MAZE_HEIGHT = 20
